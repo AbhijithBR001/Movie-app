@@ -1,2 +1,2 @@
 # Movie-app
- A simple movie app using api
+ A simple movie app using React . API based
